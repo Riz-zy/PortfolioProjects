@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 In this repo you can find my portfolio projects
 
 Project 01:
